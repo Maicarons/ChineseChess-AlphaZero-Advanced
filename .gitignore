@@ -1,0 +1,9 @@
+*.pyc
+.DS_Store
+data/*
+logs/*
+*.ttc
+Icon*
+.vscode
+*.icloud
+.idea/
